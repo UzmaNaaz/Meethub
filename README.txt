@@ -1,19 +1,3 @@
-﻿The number of lines of code: 9000
-
-
-
-
-*********************************************************************************
-Assignment Features:
-*********************************************************************************
-1. Assignment#1- servlets and hash maps is used for implementation.
-2. Assignment#2- sql is used for storing user information, group information, event information, message, status updates, friendlist information, users attending events and mongoDB is used to store the user comments.
-3. Assignment#3- jsp is used for implementation.
-4. Assignment#4- The ajax auto search completion feature is used to find friends.
-5. Assignment#5- twitter is used to display tweets for the university groups.
-
-
-
 ***********************************************************************************
 Features and functionalities in the project:
 ***********************************************************************************
